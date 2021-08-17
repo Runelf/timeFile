@@ -11,6 +11,7 @@ public class Main {
         int a = 2;
         add(a);
         add(a);
+        add(a);
 
 
 //        for (int i = 0; i < 10; i++) {
